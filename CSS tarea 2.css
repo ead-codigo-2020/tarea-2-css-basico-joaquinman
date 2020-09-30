@@ -1,0 +1,30 @@
+
+  }
+  .cropimg{
+    position: absolute ;
+   width:100%;
+   z-index: -1;
+   margin:-15% 0;
+  }
+  h1{
+     text-align: left;
+    color: #87CEEB ;
+    font-size: 5rem;
+  }
+  body {
+    color: white;
+    background-color: green ;
+    font-family: helvetica ;
+    background: linear-gradient;
+    height: 100;
+    margin: 0;
+    display: grid;
+    place-items: left ;
+    margin-left: 20px;
+    }
+  footer{
+    background: red;
+    width: 100%;
+    text-align: left ;
+    font-size: -1rem;
+  }
