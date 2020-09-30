@@ -1,16 +1,18 @@
 <!DOCTYPE html>
 <html lang = "es">
-<head>
-	<meta  charset="UTF-8">
-	<meta  name = " viewport " content = " width = device-width, initial-scale = 1.0 " >
-	<title>Currículum vitae de Joaquín Mansilla</title>
+<head><title>Curriculum</title>
+<style>
+h1 {
+  text-shadow: 2px 2px red;
+}
+</style>
 </head>
 <body>
-	<main>
-		
-   <h1> Currículum Vitae </h1>
+<main>
+
+<h1>Currículum Vitae</h1>
     <section  class = " datos ">
-<h3> Información personal </h3>
+<h3> Información personal👋 </h3>
 <ul>
 <li > Nombre Completo: Joaquín Ignacio Mansilla Del Amo </li>
 <li > Fecha de nacimiento: 30 de abril 1998 </li>
@@ -26,8 +28,8 @@
 <li> Diseño - Universidad de valparaíso, Chile </li>
 <li> Diseño - Pontificia Universidad Católica de Valparaíso </li>
 </ol>
-    </section>
-    <section> section  class = " intereses ">
+      </section>
+      <section>
 <h3> Intereses </h3>
 <ul>
 <li> Deporte </li>
@@ -60,7 +62,9 @@
 </ul>
 
     </section>
+</main>
 <footer>
+
 ________________________________________________________ <br>
 Editado en código de Visual Studio <br>
 Diseño desde el código <br>
@@ -69,7 +73,6 @@ Pontificia Universidad Católica de Valparaíso <br>
 
 <p>Fecha de publicación: <time  datetime= "2020-09-03">9 de Septimebre del 2020</time></p>
 
-</footer>	
-</main>
-</body>
+</footer>
+</body>	
 </html>
